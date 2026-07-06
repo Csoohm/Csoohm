@@ -27,7 +27,8 @@ Welcome to my GitHub profile! I am a Digital and Information Technology graduate
   * Developed an Admin Dashboard for managing and updating order statuses.
   * Designed and implemented responsive layouts using Tailwind CSS for all mobile, tablet, and desktop viewports.
 
-### 📝 2. To-Do List App
+### 📝 2. To-Do List App 
+* **Live Demo:** https://csoohm.github.io/todo-react/
 * **Tech Stack:** React, Vite, Bootstrap
 * **Key Features:**
   * Built a responsive task management app with add, edit, delete, and mark-complete functionality using React Hooks.
